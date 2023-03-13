@@ -1,3 +1,6 @@
+" Delete blank line using backspace in insert mode
+:set bs=2
+
 " set encoding=utf-8 fileencodings=utf-8
 set nu
 " tabstop:表示一个 tab 显示出来是多少个空格的长度默认 8。
