@@ -1,5 +1,5 @@
 " Delete blank line using backspace in insert mode
-:set bs=2
+set bs=2
 
 " set encoding=utf-8 fileencodings=utf-8
 set nu
