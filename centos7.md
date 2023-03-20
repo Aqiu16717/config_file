@@ -160,3 +160,5 @@ sudo adduser sammy
 sudo passwd sammy
 sudo usermod -aG wheel sammy
 ```
+
+## clangd
